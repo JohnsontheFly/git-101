@@ -4,6 +4,7 @@
     "Angus Wong",
     "Ryan Chang",
     "Mandeep Gautam",
+    "Marko Puusaari"
     "Miguel Pineda",
     "Rasmus Kromann",
     "Fabian Authen",
