@@ -4,6 +4,7 @@
     "Angus Wong",
     "Ryan Chang",
     "Mandeep Gautam",
+    "Rasmus Kromann",
     "Fabian Authen",
     "Jonathan Fedje",
     "Annie",
